@@ -6,7 +6,7 @@ int main() {
   cout << "how many numbers? " << endl;
   cin >> num;
 
-  for(int c=1; c<n; c++) {
+  for(int c=1; c<num; c++) {
     cout << c << endl;
   }
 
